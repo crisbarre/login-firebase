@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-angular-firebase-bc573": {
+      "hosting": {
+        "login-firebase": [
+          "login-angular-firebase-bc573"
+        ]
+      }
+    }
+  }
+}
